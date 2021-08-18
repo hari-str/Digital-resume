@@ -5426,7 +5426,7 @@ textarea.form-control-lg {
   padding-top: 2rem !important; }
 
 .pt-4 {
-  padding-top: 3rem !important; }
+  padding-top: 1rem !important; }
 
 .pt-5 {
   padding-top: 6rem !important; }
@@ -5462,7 +5462,7 @@ textarea.form-control-lg {
   padding-bottom: 2rem !important; }
 
 .pb-4 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 0rem !important; }
 
 .pb-5 {
   padding-bottom: 6rem !important; }
